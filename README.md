@@ -1,2 +1,2 @@
-# test-webdev
-* https://malvinatsulukidze.github.io/test-webdev/
+# testing webdev task
+* https://malvinatsulukidze.github.io/webdev/
